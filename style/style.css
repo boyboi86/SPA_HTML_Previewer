@@ -1,0 +1,13 @@
+.right-side {
+	color: blue;
+	width: 350px;
+    height: 100%;
+    margin-right: 5px;
+
+}
+
+.left-side {
+	float: right;
+	clear: left;
+	margin-right: -10px;
+}
